@@ -1,5 +1,4 @@
-import streamlit as st
-from PIL import Image
-from torchvision import models
-import torchvision.transforms as transforms
-import torch
+streamlit
+torchvision
+torch
+pillow
